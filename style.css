@@ -1,0 +1,319 @@
+
+
+/*************************************************TAG SELECTOR*********************************************/
+
+body{
+    
+    text-align: center;
+    margin: 0;
+}
+
+hr{
+    border: dotted 4px #7C83FD;
+    border-bottom: none;
+    width: 5% ;
+}
+
+h2{
+    font-family:Quantico, Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+h3{
+    color: brown;
+    font-family: Quantico, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-family: Source Sans Pro, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+/*********************************************CLASS SELECTOR*****************************************/
+
+.top-container{
+    background-image: url(image/JL.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding-bottom: 400px;
+    margin-bottom: 100px;
+}
+
+.heading1{
+    color: rgb(220, 220, 226);
+    font-family: Quantico, Verdana, Geneva, Tahoma, sans-serif;
+    font-size:3rem;
+    font-weight: 900;
+    word-spacing: 20px;
+    position: absolute;
+    left: 350px;
+    top: 150px;
+
+}
+
+
+.thu{
+    height: 100px;
+    position: absolute;
+    top:170px;
+    right: 460px;
+
+
+}
+
+
+
+.alfred{
+    margin: 100px 300px 100px;
+    text-align: center;
+    line-height: 1.5;
+    float: right;
+
+    
+    
+}
+
+.alfred-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;   
+}
+
+.intro{
+    width: 480px;
+    
+}
+
+.hello{
+    margin: 10px;
+}
+
+
+
+.member{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    padding-bottom: 60px;
+    
+
+}
+
+.member1{
+    text-transform: uppercase;
+    font-family:Quantico, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+   
+}
+.member-bat{
+    width: 250px;
+    position:absolute;
+    top: 1120px;
+    left: 400px;
+}
+
+.member-ww{
+    width: 100px;
+    position: absolute;
+    top:1085px;
+    left: 326px;
+}
+
+.member-shazam{
+    width: 150px;
+    position: absolute;
+    top: 970px;
+    left: 475px;
+}
+
+.member-aqua{
+    width: 150px;
+    position: absolute;
+    top: 1010px;
+    left: 600px;
+}
+
+.batman{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+    
+}
+
+.batman-img{
+    width: 180px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 20px;
+}
+
+.bats-img{
+    width: 150px;
+    position: absolute;
+    top: 1490px;
+}
+
+.wonder-woman{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+    
+}
+
+.wonder-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    float: right;
+    margin-left: 20px;
+}
+
+.superman{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+    
+}
+
+.superman-img{
+    width: 180px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 20px;
+}
+
+.flash{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+    
+}
+
+.flash-img{
+    width: 180px;
+    border-radius: 100px;
+    float: right;
+    margin-right: 20px;
+}
+
+.flash-ani{
+    width: 70px;
+    position: absolute;
+    top: 2611px;
+    left: 280px;
+}
+
+.cyborg{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+    
+}
+
+.cyborg-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    float: right;
+    margin-right: 20px;
+}
+
+.aquaman{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+    
+}
+
+.aquaman-img{
+    width: 180px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 20px;
+}
+
+
+.aqua{
+    width: 90px;
+    position: absolute;
+    top: 3462px;
+
+}
+
+.join{
+    padding: 90px;
+    text-transform: capitalize;
+    line-height: 2;
+}
+
+
+
+.btn {
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    -webkit-box-shadow: 0px 1px 3px #403c40;
+    -moz-box-shadow: 0px 1px 3px #403c40;
+    box-shadow: 0px 1px 3px #403c40;
+    font-family:  Quantico, Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+    font-size: 25px;
+    background: #55615f;
+    padding: 9px 23px 9px 23px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+  }
+  
+  .btn:hover {
+    background: #7aa9c7;
+    text-decoration: none;
+  }
+
+  .animated-batman{
+      width: 100px;
+      position: absolute;
+      right: 490px;
+      top: 4200px;
+  }
+
+  .bottom-container{
+      background-color: rgb(10, 10, 10);
+      padding: 20px;
+      font-size: small;
+  }
+
+  .link{
+      color: lightgray;
+      padding: 10px;
+      text-decoration: none;
+  }
+  .link:hover{
+      color: lime;
+  }
+  .link:visited{
+      color: darkseagreen;
+  }
+
+  .link:active{
+      color: yellowgreen;
+  }
+
+  .copyright{
+      color: lightgray;
+      font-family: Quantico, Verdana, Geneva, Tahoma, sans-serif;
+      font-size: x-small;
+     
+  }
