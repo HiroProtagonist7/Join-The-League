@@ -36,7 +36,7 @@ p{
     background-image: url(image/JL.jpg);
     background-size:cover;
     background-repeat: no-repeat;
-    padding-bottom: 400px;
+    padding-bottom: 500px;
     margin-bottom: 100px;
 }
 
@@ -47,8 +47,8 @@ p{
     font-weight: 900;
     word-spacing: 20px;
     position: absolute;
-    left: 350px;
-    top: 150px;
+    left: 500px;
+    top: 180px;
 
 }
 
@@ -56,8 +56,8 @@ p{
 .thu{
     height: 100px;
     position: absolute;
-    top:170px;
-    right: 460px;
+    top:200px;
+    right: 580px;
 
 
 }
@@ -65,7 +65,7 @@ p{
 
 
 .alfred{
-    margin: 100px 300px 100px;
+    margin: 100px 430px 100px 430px;
     text-align: center;
     line-height: 1.5;
     float: right;
@@ -108,29 +108,29 @@ p{
 .member-bat{
     width: 250px;
     position:absolute;
-    top: 1120px;
-    left: 400px;
+    top: 1225px;
+    left: 540px;
 }
 
 .member-ww{
     width: 100px;
     position: absolute;
-    top:1085px;
-    left: 326px;
+    top:1185px;
+    left: 460px;
 }
 
 .member-shazam{
     width: 150px;
     position: absolute;
-    top: 970px;
-    left: 475px;
+    top: 1072px;
+    left: 605px;
 }
 
 .member-aqua{
     width: 150px;
     position: absolute;
-    top: 1010px;
-    left: 600px;
+    top: 1110px;
+    left: 740px;
 }
 
 .batman{
@@ -152,7 +152,7 @@ p{
 .bats-img{
     width: 150px;
     position: absolute;
-    top: 1490px;
+    top: 1590px;
 }
 
 .wonder-woman{
@@ -207,8 +207,8 @@ p{
 .flash-ani{
     width: 70px;
     position: absolute;
-    top: 2611px;
-    left: 280px;
+    top: 2650px;
+    left: 350px;
 }
 
 .cyborg{
@@ -248,7 +248,7 @@ p{
 .aqua{
     width: 90px;
     position: absolute;
-    top: 3462px;
+    top: 3435px;
 
 }
 
@@ -285,8 +285,8 @@ p{
   .animated-batman{
       width: 100px;
       position: absolute;
-      right: 490px;
-      top: 4200px;
+      right: 625px;
+      top: 4140px;
   }
 
   .bottom-container{
